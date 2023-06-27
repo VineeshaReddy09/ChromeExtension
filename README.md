@@ -1,0 +1,2 @@
+# ChromeExtension
+Spoiler Blocker
